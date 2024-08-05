@@ -10,5 +10,3 @@
 - 💬 一起讨论go java python vue或者我的项目相关请发邮件到[sakana9826@gmail.com](mailto:sakana9826@gmail.com)
 - ⭐ 希望你喜欢 [sakanaMusic](https://github.com/sakana9826/sakanaMusic) 、[sakanHome](https://github.com/sakana9826/home) 
 - ⚡ Fun fact: Data Analysis📊
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
